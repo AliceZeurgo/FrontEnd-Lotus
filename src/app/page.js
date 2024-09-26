@@ -1,9 +1,11 @@
-import Image from "next/image";
+import React from 'react';
 
-export default function Home() {
+const Profile = () => {
   return (
     <div>
       
     </div>
   );
-}
+};
+
+export default Profile;
